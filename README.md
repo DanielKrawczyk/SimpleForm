@@ -6,4 +6,4 @@ The API response is visible as a console.log.
 
 Page URL: https://danielkrawczyk.github.io/SimpleForm
 
-Project realization time: 7h
+Project realization time: 6h
