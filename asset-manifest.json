@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SimpleForm/static/css/main.62144320.chunk.css",
+    "main.css": "/SimpleForm/static/css/main.7ce5e638.chunk.css",
     "main.js": "/SimpleForm/static/js/main.62f96e12.chunk.js",
     "main.js.map": "/SimpleForm/static/js/main.62f96e12.chunk.js.map",
     "runtime-main.js": "/SimpleForm/static/js/runtime-main.b0355e0a.js",
@@ -8,13 +8,13 @@
     "static/js/2.f1326cd3.chunk.js": "/SimpleForm/static/js/2.f1326cd3.chunk.js",
     "static/js/2.f1326cd3.chunk.js.map": "/SimpleForm/static/js/2.f1326cd3.chunk.js.map",
     "index.html": "/SimpleForm/index.html",
-    "static/css/main.62144320.chunk.css.map": "/SimpleForm/static/css/main.62144320.chunk.css.map",
+    "static/css/main.7ce5e638.chunk.css.map": "/SimpleForm/static/css/main.7ce5e638.chunk.css.map",
     "static/js/2.f1326cd3.chunk.js.LICENSE.txt": "/SimpleForm/static/js/2.f1326cd3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b0355e0a.js",
     "static/js/2.f1326cd3.chunk.js",
-    "static/css/main.62144320.chunk.css",
+    "static/css/main.7ce5e638.chunk.css",
     "static/js/main.62f96e12.chunk.js"
   ]
 }
